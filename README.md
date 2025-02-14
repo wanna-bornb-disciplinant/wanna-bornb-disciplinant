@@ -19,7 +19,7 @@
 ---
 
 ## 🎧 Recent Playing
-[![Spotify](https://novatorem-sandy-omega.vercel.app/api/spotify)](https://open.spotify.com/user/Ethan%20Xiang)
+[![Spotify](https://novatorem-sandy-omega.vercel.app/api/spotify)](https://open.spotify.com/user/313wwsgddgcuz3ikzzvrt6p2sbcq)
 
 ---
 
