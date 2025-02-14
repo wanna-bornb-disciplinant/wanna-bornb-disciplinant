@@ -1,11 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+value+of+a+man+resides+in+what+he+gives+and+not+in+what+he+is+capable+of+receiving;Keep+writing+more+code+slowly+...)](https://git.io/typing-svg)
+# 👋 Hongyan Xiang (💻🚬📖)
 
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanna-bornb-disciplinant&count_private=true&&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+writing+more+code+slowly+...&pause=5000&font=Roboto&size=30&color=7B3FE4&width=435)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanna-bornb-disciplinant)](https://github.com/anuraghazra/github-readme-stats)
+- 🎯 Pursuing my PhD now...
+- 🎯 Wasting my time to save other people's time.
+- 🔖 Medical Imaging Reconstruction
+- 🔖 Physics Informed Deep Learning
+- 🔖 soccer & hoops
+- 💡 [Learn more about me](http://miracle.ustc.edu.cn/2022/1212/c33158a588708/page.htm)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanna-bornb-disciplinant&layout=compact&theme=tokyonight)
+|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wanna-bornb-disciplinant&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ethan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanna-bornb-disciplinant&layout=compact&theme=buefy&hide_border=true" /></a>|
+| ------------- | ------------- |
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=wanna-bornb-disciplinant" /> </div>
+## 🔧 Technologies
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=wanna-bornb-disciplinant" /> </div>
+ ![skills](https://skillicons.dev/icons?i=html,css,py,vim,docker,kubernetes,md,git,bash,vscode&theme=light) 
+
+## 🎧 Recent Playing
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)]([https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l](https://open.spotify.com/track/1h1odoIBoxI1BvZUpoAGcH))
+
+---
+
+
