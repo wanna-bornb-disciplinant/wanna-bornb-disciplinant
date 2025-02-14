@@ -17,7 +17,7 @@
  ![skills](https://skillicons.dev/icons?i=html,css,py,vim,docker,kubernetes,md,git,bash,vscode&theme=light) 
 
 ## 🎧 Recent Playing
-[![Spotify](https://Ethan_Xiang.vercel.app/api/spotify)](https://open.spotify.com/user/Ethan_Xiang)
+[![Spotify](https://self-spotify-4-ethan.vercel.app/api/spotify)](https://open.spotify.com/user/self-spotify-4-ethan)
 
 ---
 
