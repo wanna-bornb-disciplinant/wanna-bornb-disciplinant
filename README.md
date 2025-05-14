@@ -4,7 +4,7 @@
 <!--&lines=Elegance+emerges+from+structured+chaos-->
 
 - 🎯 Pursuing my PhD now...
-- 🎯 Wasting my time to save other people's time.
+- 🎯 Wasting my life to save other people's time.
 - 🔖 Medical Imaging Reconstruction
 - 🔖 Physics Informed Deep Learning
 - 🔖 Soccer & Hoops
