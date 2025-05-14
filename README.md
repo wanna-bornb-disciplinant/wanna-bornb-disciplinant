@@ -1,6 +1,7 @@
 # 👋 Hongyan Xiang (💻🚬📖)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+writing+more+code+slowly+...&pause=5000&font=Roboto&size=30&color=7B3FE4&width=435)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Code+is+poetry+in+motion&pause=8000&font=Roboto&size=30&color=7B3FE4&width=600)](https://git.io/typing-svg)
+<!--&lines=Elegance+emerges+from+structured+chaos-->
 
 - 🎯 Pursuing my PhD now...
 - 🎯 Wasting my time to save other people's time.
