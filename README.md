@@ -15,19 +15,10 @@
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanna-bornb-disciplinant&layout=compact&theme=great-gatsby&show_icons=true" /></a>
 ![Ethan Xiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanna-bornb-disciplinant&theme=great-gatsby&show_icons=true) -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=wanna-bornb-disciplinant&theme=great-gatsby&show_icons=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanna-bornb-disciplinant&layout=compact&theme=great-gatsby" width="48%" />
 
-<div align="left">
-  <div style="display: flex; gap: 10px; align-items: center;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=wanna-bornb-disciplinant&theme=great-gatsby&show_icons=true" 
-      style="height: 180px; width: 400px; object-fit: cover;"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanna-bornb-disciplinant&layout=compact&theme=great-gatsby&hide_border=true" 
-      style="height: 180px; width: 300px; object-fit: cover;"
-    />
-  </div>
-</div>
+
 
 <!--## 🔧 Technologies
 
