@@ -11,12 +11,6 @@
 - 💡 Know more about me -->
 <!--[Learn more about me](http://miracle.ustc.edu.cn/2022/1212/c33158a588708/page.htm)-->
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=wanna-bornb-disciplinant&theme=great-gatsby&show_icons=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanna-bornb-disciplinant&layout=compact&theme=great-gatsby" width="48%" />
-
-
-
 <!--## 🔧 Technologies
 
  ![skills](https://skillicons.dev/icons?i=html,css,py,vim,docker,kubernetes,md,git,bash,vscode&theme=light) -->
